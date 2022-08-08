@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xbb1a079636ca3cfba829707bb2b485edaf181220",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xbb1a079636ca3cfba829707bb2b485edaf181220",
+  "CONTRACT_ADDRESS": "0x14e110de16cb44a2394759a3bfde861e2d989fd9",
+  "SCAN_LINK": "https://etherscan.io/token/0x14e110de16cb44a2394759a3bfde861e2d989fd9",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Doblins",
   "SYMBOL": "DOBLINS",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/doblins-genesis",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/doblins",
   "SHOW_BACKGROUND": true
 }
